@@ -1,8 +1,6 @@
 # DCASE2020-Anomly-Detection
 This repo is actually taken from "https://github.com/parth2170/DCASE2020-Task2" and the issues related to the library versions are resolved.
 
-# MODULATION SPECTRAL SIGNAL REPRESENTATIONAND I-VECTORS FOR ANOMALOUS SOUND DETECTION
-
 This repository can be used to reproduce our submissions for **DCASE Challenge 2020 Task 2** - <em>Unsupervised Detection of Anomalous Sounds for Machine Condition Monitoring</em>
 
 
